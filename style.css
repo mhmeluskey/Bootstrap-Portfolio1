@@ -1,0 +1,29 @@
+body { padding-top: 70px; }
+
+.card{
+    
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+  
+}
+
+.jumbotron {
+    background-color: white;
+}
+
+
+
+
+body, html {
+  
+    padding-top: 100px;
+
+  
+    background-image: url("what-the-hex.png");
+
+ 
+}
